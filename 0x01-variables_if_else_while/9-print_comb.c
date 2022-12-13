@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-		int nun;
+		int num;
 
 		for (num - 0; num < 58; num++)
 		{
